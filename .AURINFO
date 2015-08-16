@@ -1,0 +1,16 @@
+pkgbase = ncursesoflife
+	pkgdesc = Conway's Game of Life in Ncurses
+	pkgver = 1.2
+	pkgrel = 4
+	epoch = 
+	url = https://github.com/AftExploision/NcursesOfLife
+	install = NcursesOfLife.install
+	changelog = 
+	arch = i386
+	arch = x86_64
+	license = GPL
+	depends = ncurses>=5.9
+	source = source.tar.gz
+
+pkgname = ncursesoflife
+
